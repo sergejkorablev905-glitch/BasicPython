@@ -1,0 +1,5 @@
+file = open ("out.txt", "w", encoding="utf-8")
+
+file.write ("Привет!")
+
+file.close()
