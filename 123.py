@@ -1,14 +1,18 @@
 from operator import truediv
+from typing import cast
 
 # def get_word_stats(word):
-#     word = word.lower()
+
+cast(, ....)
 #     count = len(word)
 #     vowels = 0
-#     consonants = 0
+#    consonants = 0
 #
 #     for c in word:
-#         if c in 'аеёиоуыэюя':
-#             vowels += 1
+#                if c in 'аеёиоуыэюя':
+#
+#
+#            wels += 1
 #         elif c in 'бвгджзйклмнпрстфхцчшщ':
 #             consonants += 1
 #
@@ -27,4 +31,9 @@ with open("salaries.txt", "r", encoding="utf-8") as f:
             if salary > 60000:
                 res = data[0] + " " + data[1][0] + "." + data[2][0] + "."
                 out.write(res + "\n")
+
+
+
+
+
 
