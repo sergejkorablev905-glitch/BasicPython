@@ -1,0 +1,8 @@
+student_id,name,math_score,science_score,is_active
+101,Alex,80,90,True
+102,Jordan,-,75,True
+103,Taylor,95,85,False
+104,Morgan,60,65,True
+102,Jordan,,75,True
+105,Alex,80,90,True
+106,Sam,150,None,

@@ -1,0 +1,301 @@
+product_id,product_name,category,price,stock_quantity,brand,rating,discount_percent,weight_kg,warranty_months,release_year,manufacturer_country,is_available,min_order_quantity,supplier_code
+1,Ноутбук Игровой,Electronics,85000,5,GlobalTrade,3.7,15,4.2,12,2024,South Korea,True,1,SUP-792
+2,Смартфон Флагман,Electronics,45000,12,GlobalTrade,4.8,0,8.9,6,2023,China,True,1,SUP-338
+3,Телевизор 4K,Electronics,65000,0,GearUp,4.4,10,3.06,36,2024,Germany,False,5,SUP-384
+4,Офисный стол,Furniture,15000,20,TechCorp,4.6,0,10.5,24,2025,Vietnam,True,1,SUP-881
+5,Ультрабук Pro,Electronics,120000,3,EcoAppliances,3.7,5,1.54,24,2025,China,True,2,SUP-649
+6,Смарт-часы X #6,Electronics,13328,70,EcoAppliances,4.7,10,13.29,24,2024,South Korea,True,1,SUP-146
+7,Коврик для йоги #7,Sports,13265,37,TechCorp,4.8,20,1.6,24,2026,South Korea,True,1,SUP-266
+8,Мультиварка #8,Appliances,8365,85,EcoAppliances,4.6,15,9.76,12,2024,Vietnam,True,2,SUP-488
+9,Фен для волос #9,Appliances,8696,87,EcoAppliances,4.8,20,0.93,6,2025,Germany,True,1,SUP-167
+10,Журнальный столик #10,Furniture,59433,91,EcoAppliances,3.8,5,5.99,36,2024,Russia,True,1,SUP-352
+11,Эспандер #11,Sports,9430,33,GlobalTrade,4.4,10,6.05,12,2024,USA,True,2,SUP-193
+12,Планшет Air #12,Electronics,23033,80,ComfortHome,4.7,5,8.99,36,2026,USA,True,2,SUP-641
+13,Фен для волос #13,Appliances,1876,87,GlobalTrade,3.7,10,11.29,24,2023,Russia,True,2,SUP-261
+14,Изучаем Python #14,Books,3757,92,EcoAppliances,5.0,20,2.76,6,2025,South Korea,True,5,SUP-723
+15,Шкаф-купе #15,Furniture,26504,97,ComfortHome,4.3,20,13.84,6,2025,Germany,True,1,SUP-214
+16,Мультиварка #16,Appliances,9346,7,ComfortHome,4.8,0,1.38,36,2023,USA,True,1,SUP-231
+17,Бутылка для воды #17,Sports,9607,21,EcoAppliances,4.3,10,6.4,12,2024,South Korea,True,1,SUP-508
+18,Гантели 5кг #18,Sports,7777,66,PrintHouse,3.7,0,1.05,6,2024,USA,True,1,SUP-107
+19,Планшет Air #19,Electronics,33007,8,TechCorp,4.8,0,7.76,24,2026,Vietnam,True,5,SUP-235
+20,Эспандер #20,Sports,10040,60,ComfortHome,4.7,20,6.17,6,2023,South Korea,True,2,SUP-462
+21,Базы данных #21,Books,2712,93,TechCorp,4.5,15,1.57,36,2025,China,True,1,SUP-296
+22,Журнальный столик #22,Furniture,31400,17,PrintHouse,3.8,5,3.82,6,2026,USA,True,1,SUP-151
+23,Эспандер #23,Sports,14297,1,TechCorp,4.9,20,3.62,36,2026,Germany,True,1,SUP-985
+24,Изучаем Python #24,Books,1474,48,TechCorp,5.0,0,13.91,36,2025,Germany,True,5,SUP-777
+25,Бутылка для воды #25,Sports,3136,24,EcoAppliances,3.8,0,8.73,6,2025,China,True,1,SUP-698
+26,Архитектура ПО #26,Books,2975,20,TechCorp,4.9,0,12.79,6,2023,South Korea,True,1,SUP-513
+27,Роутер Wi-Fi 6 #27,Electronics,35271,74,GearUp,3.6,0,6.35,24,2025,Vietnam,True,1,SUP-344
+28,Тостер #28,Appliances,5788,85,GlobalTrade,3.9,0,13.94,6,2023,Germany,True,5,SUP-676
+29,Планшет Air #29,Electronics,73468,27,GearUp,3.9,0,13.22,12,2025,Russia,True,1,SUP-548
+30,Переходник HDMI #30,Accessories,4833,1,GlobalTrade,4.7,0,13.98,6,2024,Russia,True,1,SUP-209
+31,Эспандер #31,Sports,3146,34,EcoAppliances,4.4,15,5.21,24,2026,Russia,True,1,SUP-194
+32,Бутылка для воды #32,Sports,14188,35,TechCorp,3.5,20,2.05,24,2024,South Korea,True,2,SUP-664
+33,Бутылка для воды #33,Sports,9789,1,TechCorp,3.6,15,13.57,6,2025,USA,True,5,SUP-251
+34,Алгоритмы и структуры #34,Books,971,39,EcoAppliances,4.8,20,14.59,6,2025,Vietnam,True,1,SUP-782
+35,Клавиатура Механическая #35,Electronics,76385,52,GearUp,4.6,0,12.98,12,2026,China,True,1,SUP-854
+36,Тостер #36,Appliances,23451,94,ComfortHome,3.9,20,10.55,36,2023,Germany,True,1,SUP-304
+37,Чистый код #37,Books,2050,29,ComfortHome,3.5,0,6.04,24,2023,Russia,True,1,SUP-756
+38,Рюкзак для ноутбука #38,Accessories,4892,42,TechCorp,3.7,0,2.76,24,2023,China,True,5,SUP-544
+39,Мультиварка #39,Appliances,15799,77,GearUp,3.7,10,2.93,6,2026,China,True,5,SUP-925
+40,Кабель Type-C #40,Accessories,3483,55,TechCorp,4.9,0,9.39,6,2025,USA,True,1,SUP-782
+41,Чистый код #41,Books,2448,89,EcoAppliances,4.3,0,6.36,36,2024,USA,True,5,SUP-408
+42,Архитектура ПО #42,Books,801,38,EcoAppliances,3.8,20,8.74,24,2026,Germany,True,2,SUP-791
+43,Журнальный столик #43,Furniture,33010,94,ComfortHome,4.5,0,7.78,24,2023,Vietnam,True,1,SUP-330
+44,Шкаф-купе #44,Furniture,3600,5,ComfortHome,5.0,10,12.76,6,2026,Germany,True,5,SUP-299
+45,Бутылка для воды #45,Sports,8699,51,ComfortHome,3.7,15,0.18,6,2026,Vietnam,True,1,SUP-923
+46,Эспандер #46,Sports,8211,6,GearUp,3.9,20,1.91,12,2026,South Korea,True,5,SUP-672
+47,Переходник HDMI #47,Accessories,4125,78,GlobalTrade,4.8,5,12.48,36,2024,South Korea,True,2,SUP-560
+48,Блендер #48,Appliances,22394,35,GearUp,4.2,0,4.19,6,2025,Vietnam,True,1,SUP-443
+49,Фен для волос #49,Appliances,4140,17,ComfortHome,3.8,15,2.38,12,2023,Germany,True,2,SUP-438
+50,Рюкзак для ноутбука #50,Accessories,3906,7,ComfortHome,4.7,5,13.58,6,2026,Germany,True,1,SUP-460
+51,Тостер #51,Appliances,15230,68,GlobalTrade,4.6,20,9.09,12,2026,Vietnam,True,1,SUP-546
+52,Изучаем Python #52,Books,2392,43,GlobalTrade,4.5,5,10.89,36,2024,USA,True,5,SUP-127
+53,Архитектура ПО #53,Books,3111,84,TechCorp,3.6,5,2.12,36,2024,China,True,1,SUP-488
+54,Блендер #54,Appliances,16399,41,EcoAppliances,4.6,5,4.25,36,2025,China,True,2,SUP-119
+55,Эспандер #55,Sports,1453,44,ComfortHome,4.5,20,14.36,6,2023,Vietnam,True,1,SUP-959
+56,Роутер Wi-Fi 6 #56,Electronics,22973,30,ComfortHome,4.2,0,8.5,12,2026,South Korea,True,1,SUP-885
+57,Блендер #57,Appliances,21353,77,GlobalTrade,4.6,20,12.31,24,2023,USA,True,1,SUP-419
+58,Рюкзак для ноутбука #58,Accessories,3749,91,ComfortHome,3.6,15,12.48,12,2023,South Korea,True,1,SUP-970
+59,Эспандер #59,Sports,13797,15,GearUp,4.7,0,8.04,24,2023,USA,True,1,SUP-112
+60,Базы данных #60,Books,1232,55,EcoAppliances,4.5,20,6.95,12,2026,Vietnam,True,5,SUP-766
+61,Фен для волос #61,Appliances,19134,99,PrintHouse,4.2,20,10.99,24,2025,Vietnam,True,1,SUP-385
+62,Алгоритмы и структуры #62,Books,3873,59,GearUp,4.4,5,5.11,36,2025,Vietnam,True,2,SUP-317
+63,Мультиварка #63,Appliances,12652,35,GearUp,4.6,0,8.38,12,2023,Vietnam,True,2,SUP-600
+64,Кабель Type-C #64,Accessories,4400,82,GlobalTrade,4.2,20,0.36,24,2024,Germany,True,1,SUP-413
+65,Эспандер #65,Sports,6646,60,GearUp,4.3,5,14.95,24,2025,South Korea,True,2,SUP-377
+66,Мультиварка #66,Appliances,9054,15,GlobalTrade,3.8,0,11.17,12,2024,Vietnam,True,2,SUP-383
+67,Эспандер #67,Sports,13055,67,GearUp,3.9,0,12.51,24,2024,Russia,True,1,SUP-409
+68,Роутер Wi-Fi 6 #68,Electronics,19591,35,TechCorp,5.0,10,4.45,12,2026,China,True,1,SUP-687
+69,Тостер #69,Appliances,17186,56,EcoAppliances,3.8,0,3.86,36,2023,China,True,2,SUP-603
+70,Роутер Wi-Fi 6 #70,Electronics,85502,87,TechCorp,3.7,20,8.49,24,2023,Vietnam,True,1,SUP-671
+71,Архитектура ПО #71,Books,3241,79,ComfortHome,4.7,5,6.81,36,2025,USA,True,2,SUP-412
+72,Зарядное устройство #72,Accessories,993,78,GlobalTrade,3.6,20,3.2,12,2025,South Korea,True,1,SUP-260
+73,Шкаф-купе #73,Furniture,38175,9,ComfortHome,3.5,5,10.37,36,2025,China,True,1,SUP-395
+74,Гантели 5кг #74,Sports,12117,58,TechCorp,4.5,0,11.84,12,2026,China,True,5,SUP-330
+75,Коврик для йоги #75,Sports,4952,18,TechCorp,3.6,20,4.68,24,2026,China,True,2,SUP-805
+76,Тостер #76,Appliances,10420,64,GearUp,4.2,0,9.01,36,2025,USA,True,1,SUP-126
+77,Монитор 27 #77,Electronics,91381,73,GearUp,4.9,20,10.12,24,2023,Vietnam,True,2,SUP-631
+78,Бутылка для воды #78,Sports,5157,23,GearUp,4.2,20,7.43,6,2026,Russia,True,2,SUP-441
+79,Микроволновка #79,Appliances,6769,42,PrintHouse,4.5,0,9.97,36,2023,Germany,True,1,SUP-422
+80,Мультиварка #80,Appliances,5298,98,PrintHouse,4.8,20,14.82,36,2026,China,True,1,SUP-630
+81,Фен для волос #81,Appliances,17834,80,PrintHouse,4.6,0,4.08,12,2025,Germany,True,2,SUP-224
+82,Роутер Wi-Fi 6 #82,Electronics,34365,90,ComfortHome,4.0,0,8.33,6,2024,China,True,2,SUP-220
+83,Коврик для йоги #83,Sports,8765,91,EcoAppliances,4.3,0,6.29,36,2026,Vietnam,True,2,SUP-664
+84,Диван угловой #84,Furniture,14491,76,GearUp,4.6,0,12.97,24,2026,Russia,True,5,SUP-373
+85,Клавиатура Механическая #85,Electronics,42132,75,GearUp,5.0,5,12.99,36,2026,Russia,True,1,SUP-665
+86,Рюкзак для ноутбука #86,Accessories,4230,41,ComfortHome,5.0,0,8.62,12,2026,China,True,1,SUP-862
+87,Базы данных #87,Books,2381,84,GlobalTrade,5.0,5,14.48,12,2025,China,True,2,SUP-202
+88,Рюкзак для ноутбука #88,Accessories,625,92,ComfortHome,4.1,15,14.55,6,2026,Russia,True,1,SUP-738
+89,Бутылка для воды #89,Sports,11246,10,EcoAppliances,4.8,20,8.05,24,2026,USA,True,1,SUP-732
+90,Монитор 27 #90,Electronics,85727,87,EcoAppliances,5.0,15,1.45,6,2023,Germany,True,1,SUP-810
+91,Микроволновка #91,Appliances,3007,41,TechCorp,3.9,0,6.52,12,2026,USA,True,1,SUP-274
+92,Стул кухонный #92,Furniture,41943,48,GearUp,4.5,5,13.7,12,2024,Germany,True,1,SUP-570
+93,Микроволновка #93,Appliances,16745,36,GlobalTrade,4.3,0,6.68,24,2025,South Korea,True,2,SUP-806
+94,Тостер #94,Appliances,11399,25,PrintHouse,4.8,0,3.63,24,2025,South Korea,True,1,SUP-122
+95,Бутылка для воды #95,Sports,5097,1,GearUp,4.8,20,11.2,6,2026,Russia,True,1,SUP-721
+96,Блендер #96,Appliances,22360,24,GearUp,3.9,20,10.84,12,2023,South Korea,True,1,SUP-416
+97,Изучаем Python #97,Books,3173,46,GlobalTrade,3.7,0,4.97,36,2024,Vietnam,True,1,SUP-905
+98,Переходник HDMI #98,Accessories,4848,64,EcoAppliances,4.7,0,13.72,36,2025,South Korea,True,1,SUP-923
+99,Смарт-часы X #99,Electronics,12869,18,ComfortHome,4.8,15,10.15,36,2025,China,True,2,SUP-114
+100,Фен для волос #100,Appliances,5549,58,EcoAppliances,4.5,15,4.01,36,2025,China,True,1,SUP-582
+101,Роутер Wi-Fi 6 #101,Electronics,76584,41,GearUp,3.8,0,9.57,36,2025,South Korea,True,2,SUP-219
+102,Стул кухонный #102,Furniture,4438,38,PrintHouse,3.7,0,13.32,12,2026,Germany,True,1,SUP-786
+103,Эспандер #103,Sports,7466,75,GlobalTrade,4.6,5,9.86,36,2026,Russia,True,1,SUP-806
+104,Блендер #104,Appliances,16028,56,ComfortHome,4.8,0,14.72,24,2025,China,True,2,SUP-382
+105,Стул кухонный #105,Furniture,57576,58,TechCorp,4.5,15,9.63,6,2023,Russia,True,1,SUP-228
+106,Кабель Type-C #106,Accessories,1062,97,GearUp,3.8,0,12.21,12,2025,Vietnam,True,5,SUP-102
+107,Блендер #107,Appliances,5759,69,EcoAppliances,4.7,0,9.95,6,2024,China,True,1,SUP-908
+108,Журнальный столик #108,Furniture,23218,2,ComfortHome,3.9,0,11.15,6,2023,Germany,True,2,SUP-896
+109,Фен для волос #109,Appliances,20953,13,PrintHouse,4.3,10,0.75,24,2026,South Korea,True,1,SUP-162
+110,Базы данных #110,Books,2546,87,TechCorp,4.2,5,1.2,6,2025,USA,True,1,SUP-167
+111,Полка книжная #111,Furniture,42915,81,GearUp,4.3,0,5.78,24,2026,USA,True,5,SUP-540
+112,Планшет Air #112,Electronics,88814,83,GearUp,4.6,0,6.51,12,2026,Russia,True,2,SUP-508
+113,Изучаем Python #113,Books,2080,54,EcoAppliances,4.5,0,14.31,36,2023,China,True,1,SUP-195
+114,Изучаем Python #114,Books,3849,94,EcoAppliances,4.7,10,0.99,24,2023,Germany,True,1,SUP-994
+115,Бутылка для воды #115,Sports,14822,92,TechCorp,5.0,10,4.76,6,2024,Vietnam,True,2,SUP-329
+116,Клавиатура Механическая #116,Electronics,75910,47,TechCorp,4.6,10,3.47,36,2023,USA,True,1,SUP-129
+117,Полка книжная #117,Furniture,48052,97,EcoAppliances,4.9,0,0.19,12,2026,China,True,1,SUP-858
+118,Фитнес-браслет #118,Sports,2103,95,GearUp,3.8,5,6.86,12,2025,Russia,True,1,SUP-895
+119,Зарядное устройство #119,Accessories,1195,6,ComfortHome,3.7,10,0.84,6,2025,Germany,True,2,SUP-597
+120,Рюкзак для ноутбука #120,Accessories,3892,34,ComfortHome,4.6,0,5.24,6,2025,South Korea,True,5,SUP-598
+121,Переходник HDMI #121,Accessories,872,28,PrintHouse,5.0,0,0.21,24,2024,Vietnam,True,1,SUP-396
+122,Микроволновка #122,Appliances,1753,63,GlobalTrade,4.1,0,5.77,12,2025,China,True,2,SUP-982
+123,Фитнес-браслет #123,Sports,7747,2,PrintHouse,4.9,20,4.76,36,2026,South Korea,True,2,SUP-396
+124,Смарт-часы X #124,Electronics,5733,41,ComfortHome,4.7,10,6.96,24,2023,Germany,True,1,SUP-349
+125,Архитектура ПО #125,Books,2440,67,TechCorp,4.1,0,11.21,12,2025,Vietnam,True,1,SUP-622
+126,Фитнес-браслет #126,Sports,9293,65,ComfortHome,4.9,0,5.33,12,2024,China,True,1,SUP-362
+127,Шкаф-купе #127,Furniture,41478,19,GlobalTrade,3.6,20,9.46,36,2026,South Korea,True,5,SUP-758
+128,Эспандер #128,Sports,5895,80,EcoAppliances,3.7,0,7.09,24,2025,USA,True,1,SUP-460
+129,Чехол для телефона #129,Accessories,3042,59,PrintHouse,3.6,0,12.49,6,2023,USA,True,5,SUP-619
+130,Базы данных #130,Books,3177,70,GlobalTrade,4.8,5,13.64,12,2025,USA,True,2,SUP-613
+131,Стул кухонный #131,Furniture,31525,13,EcoAppliances,5.0,0,7.62,12,2023,Vietnam,True,2,SUP-549
+132,Зарядное устройство #132,Accessories,1800,46,EcoAppliances,4.9,5,6.19,24,2023,South Korea,True,1,SUP-167
+133,Микроволновка #133,Appliances,19783,86,PrintHouse,3.9,15,12.79,12,2025,China,True,5,SUP-779
+134,Полка книжная #134,Furniture,22331,83,GlobalTrade,4.5,0,8.97,6,2025,USA,True,2,SUP-758
+135,Блендер #135,Appliances,23458,89,GlobalTrade,5.0,10,1.49,36,2025,China,True,1,SUP-416
+136,Шкаф-купе #136,Furniture,24395,98,PrintHouse,3.8,0,2.41,24,2023,USA,True,5,SUP-955
+137,Эспандер #137,Sports,1218,84,EcoAppliances,4.8,10,2.05,36,2024,Vietnam,True,1,SUP-951
+138,Эспандер #138,Sports,13855,21,GlobalTrade,4.2,5,5.53,12,2026,USA,True,1,SUP-870
+139,Бутылка для воды #139,Sports,4433,68,ComfortHome,4.0,20,11.79,12,2025,South Korea,True,5,SUP-551
+140,Чистый код #140,Books,3987,48,GearUp,4.3,0,12.27,12,2025,China,True,2,SUP-995
+141,Фен для волос #141,Appliances,4861,91,GearUp,4.8,0,1.35,12,2025,Germany,True,5,SUP-250
+142,Изучаем Python #142,Books,1709,57,EcoAppliances,4.9,5,0.89,24,2024,Germany,True,1,SUP-483
+143,Стул кухонный #143,Furniture,22885,12,GlobalTrade,4.5,20,2.28,6,2025,Germany,True,1,SUP-877
+144,Бутылка для воды #144,Sports,7949,78,TechCorp,4.9,0,3.91,12,2026,China,True,1,SUP-343
+145,Микроволновка #145,Appliances,3064,30,PrintHouse,4.5,10,6.91,6,2026,USA,True,5,SUP-116
+146,Эспандер #146,Sports,10021,30,GlobalTrade,3.7,5,0.12,24,2024,USA,True,2,SUP-291
+147,Фитнес-браслет #147,Sports,9176,46,TechCorp,4.9,10,7.66,6,2026,Germany,True,1,SUP-750
+148,Чистый код #148,Books,1838,95,TechCorp,4.0,0,5.24,6,2025,Vietnam,True,1,SUP-460
+149,Переходник HDMI #149,Accessories,1934,99,GlobalTrade,4.2,15,7.23,12,2024,China,True,2,SUP-137
+150,Блендер #150,Appliances,2935,25,TechCorp,4.0,0,7.78,36,2025,China,True,1,SUP-392
+151,Микроволновка #151,Appliances,22987,42,EcoAppliances,3.7,0,6.61,36,2026,Germany,True,1,SUP-291
+152,Базы данных #152,Books,2304,66,EcoAppliances,4.7,15,6.43,36,2024,USA,True,1,SUP-428
+153,Планшет Air #153,Electronics,45981,84,EcoAppliances,4.0,10,10.79,12,2026,Russia,True,2,SUP-143
+154,Гантели 5кг #154,Sports,10673,55,EcoAppliances,4.5,20,14.22,6,2026,Russia,True,5,SUP-920
+155,Коврик для йоги #155,Sports,1110,18,GearUp,4.5,5,0.62,6,2024,South Korea,True,1,SUP-470
+156,Архитектура ПО #156,Books,932,77,ComfortHome,4.5,0,5.64,6,2024,USA,True,1,SUP-507
+157,Мультиварка #157,Appliances,9679,14,TechCorp,4.6,5,7.81,6,2025,Russia,True,2,SUP-319
+158,Переходник HDMI #158,Accessories,4523,25,TechCorp,3.7,0,6.84,36,2023,South Korea,True,1,SUP-783
+159,Микроволновка #159,Appliances,19522,69,EcoAppliances,4.8,20,2.45,12,2025,USA,True,1,SUP-224
+160,Шкаф-купе #160,Furniture,17514,63,TechCorp,4.0,10,5.6,12,2023,China,True,1,SUP-507
+161,Бутылка для воды #161,Sports,9212,52,PrintHouse,4.7,0,1.97,24,2023,Germany,True,2,SUP-796
+162,Переходник HDMI #162,Accessories,1551,99,GearUp,4.5,0,11.54,12,2026,USA,True,1,SUP-951
+163,Роутер Wi-Fi 6 #163,Electronics,23056,38,ComfortHome,3.7,15,3.46,24,2023,Russia,True,1,SUP-750
+164,Переходник HDMI #164,Accessories,1525,80,EcoAppliances,4.4,0,7.59,12,2024,Vietnam,True,5,SUP-837
+165,Переходник HDMI #165,Accessories,837,3,TechCorp,3.6,15,11.59,24,2024,USA,True,2,SUP-732
+166,Фитнес-браслет #166,Sports,8759,80,GearUp,3.9,0,7.3,36,2025,Germany,True,1,SUP-805
+167,Монитор 27 #167,Electronics,60619,53,PrintHouse,4.2,0,9.14,24,2025,South Korea,True,1,SUP-508
+168,Полка книжная #168,Furniture,35749,71,TechCorp,4.0,5,1.93,36,2024,Vietnam,True,1,SUP-151
+169,Тостер #169,Appliances,21664,53,ComfortHome,4.9,0,12.22,24,2024,Vietnam,True,2,SUP-627
+170,Базы данных #170,Books,2063,63,TechCorp,3.6,5,7.63,12,2024,USA,True,1,SUP-149
+171,Клавиатура Механическая #171,Electronics,67866,76,GlobalTrade,4.5,0,8.1,6,2026,Vietnam,True,1,SUP-844
+172,Тостер #172,Appliances,13491,5,PrintHouse,3.6,10,3.0,24,2023,Germany,True,5,SUP-561
+173,Переходник HDMI #173,Accessories,1473,16,TechCorp,4.1,20,14.8,24,2024,Vietnam,True,5,SUP-621
+174,Архитектура ПО #174,Books,964,5,TechCorp,3.7,0,12.08,36,2024,USA,True,5,SUP-243
+175,Фен для волос #175,Appliances,11937,20,PrintHouse,5.0,15,12.65,24,2026,South Korea,True,5,SUP-406
+176,Изучаем Python #176,Books,2308,42,GlobalTrade,3.7,5,8.8,6,2026,Russia,True,5,SUP-691
+177,Стул кухонный #177,Furniture,40241,61,ComfortHome,4.3,15,9.33,36,2024,South Korea,True,1,SUP-132
+178,Чехол для телефона #178,Accessories,2062,2,PrintHouse,4.0,0,6.25,12,2026,USA,True,5,SUP-582
+179,Фитнес-браслет #179,Sports,12163,17,GearUp,3.8,0,14.97,36,2026,Russia,True,1,SUP-570
+180,Переходник HDMI #180,Accessories,4975,45,GlobalTrade,4.7,15,10.24,24,2026,Vietnam,True,1,SUP-385
+181,Переходник HDMI #181,Accessories,2342,38,EcoAppliances,4.6,15,10.6,24,2026,Russia,True,5,SUP-914
+182,Гантели 5кг #182,Sports,5315,15,GearUp,4.5,5,13.45,36,2025,Vietnam,True,1,SUP-143
+183,Микроволновка #183,Appliances,12849,56,GlobalTrade,3.9,5,3.29,24,2025,Vietnam,True,1,SUP-730
+184,Эспандер #184,Sports,4520,31,TechCorp,4.5,10,3.46,12,2023,China,True,2,SUP-438
+185,Бутылка для воды #185,Sports,2247,87,ComfortHome,3.5,10,14.67,12,2026,South Korea,True,2,SUP-588
+186,Коврик для йоги #186,Sports,12984,36,EcoAppliances,3.9,0,13.63,6,2024,USA,True,1,SUP-279
+187,Алгоритмы и структуры #187,Books,948,50,PrintHouse,3.8,15,14.44,24,2023,China,True,1,SUP-681
+188,Чехол для телефона #188,Accessories,3244,36,PrintHouse,5.0,10,7.91,12,2026,Russia,True,1,SUP-928
+189,Клавиатура Механическая #189,Electronics,24298,93,PrintHouse,4.5,15,2.87,24,2025,USA,True,1,SUP-279
+190,Рюкзак для ноутбука #190,Accessories,4003,65,EcoAppliances,3.6,15,1.52,12,2026,Russia,True,1,SUP-106
+191,Тостер #191,Appliances,9217,57,EcoAppliances,4.9,0,8.78,6,2025,South Korea,True,1,SUP-809
+192,Стул кухонный #192,Furniture,45764,15,PrintHouse,4.0,5,10.32,24,2023,South Korea,True,1,SUP-476
+193,Кабель Type-C #193,Accessories,2295,17,PrintHouse,3.7,15,14.83,24,2026,South Korea,True,5,SUP-582
+194,Кабель Type-C #194,Accessories,2527,87,GearUp,4.8,0,7.93,24,2023,USA,True,1,SUP-163
+195,Зарядное устройство #195,Accessories,2156,73,GearUp,3.7,0,12.83,36,2023,South Korea,True,1,SUP-834
+196,Рюкзак для ноутбука #196,Accessories,1244,65,PrintHouse,4.7,5,2.07,36,2026,USA,True,1,SUP-672
+197,Чистый код #197,Books,3762,2,PrintHouse,3.9,0,11.21,6,2023,Germany,True,1,SUP-817
+198,Роутер Wi-Fi 6 #198,Electronics,10897,8,PrintHouse,3.5,5,2.78,12,2026,Russia,True,2,SUP-559
+199,Базы данных #199,Books,1128,87,GlobalTrade,4.8,0,9.84,24,2023,Vietnam,True,5,SUP-502
+200,Кабель Type-C #200,Accessories,2324,0,TechCorp,5.0,5,10.14,36,2026,Vietnam,False,1,SUP-571
+201,Блендер #201,Appliances,10532,24,GlobalTrade,4.6,0,12.16,36,2023,Vietnam,True,1,SUP-168
+202,Роутер Wi-Fi 6 #202,Electronics,7400,57,GearUp,4.5,20,0.83,6,2026,Germany,True,1,SUP-652
+203,Стул кухонный #203,Furniture,11183,64,EcoAppliances,3.9,15,8.68,24,2024,Russia,True,1,SUP-776
+204,Кабель Type-C #204,Accessories,3887,38,EcoAppliances,3.6,10,13.21,12,2026,USA,True,2,SUP-148
+205,Тостер #205,Appliances,18685,40,GlobalTrade,4.1,0,4.57,12,2026,Vietnam,True,1,SUP-407
+206,Коврик для йоги #206,Sports,13801,59,TechCorp,4.3,5,8.4,12,2026,Vietnam,True,1,SUP-308
+207,Микроволновка #207,Appliances,16238,47,TechCorp,4.3,20,2.94,24,2026,South Korea,True,5,SUP-717
+208,Планшет Air #208,Electronics,27662,97,GearUp,4.6,10,3.33,12,2025,Russia,True,1,SUP-316
+209,Стул кухонный #209,Furniture,50947,96,PrintHouse,4.9,15,9.11,12,2026,Vietnam,True,5,SUP-429
+210,Тостер #210,Appliances,16778,68,GlobalTrade,4.0,0,5.46,36,2026,China,True,2,SUP-879
+211,Блендер #211,Appliances,13647,40,PrintHouse,3.6,20,3.4,12,2023,Russia,True,5,SUP-698
+212,Рюкзак для ноутбука #212,Accessories,2918,19,ComfortHome,4.0,5,8.59,12,2026,USA,True,1,SUP-363
+213,Базы данных #213,Books,2687,21,GlobalTrade,4.7,0,2.19,36,2024,USA,True,1,SUP-636
+214,Планшет Air #214,Electronics,90584,6,TechCorp,4.1,20,9.5,6,2024,China,True,1,SUP-617
+215,Чистый код #215,Books,1047,79,GlobalTrade,4.5,10,13.7,36,2023,China,True,5,SUP-664
+216,Изучаем Python #216,Books,868,67,GlobalTrade,3.9,0,0.36,36,2024,China,True,1,SUP-636
+217,Шкаф-купе #217,Furniture,14578,79,GearUp,3.9,0,4.08,36,2023,Russia,True,2,SUP-570
+218,Кабель Type-C #218,Accessories,2350,38,GlobalTrade,4.7,0,9.84,6,2023,Germany,True,2,SUP-486
+219,Рюкзак для ноутбука #219,Accessories,959,81,TechCorp,4.6,0,7.55,36,2025,USA,True,1,SUP-640
+220,Монитор 27 #220,Electronics,30710,88,GearUp,4.2,0,13.87,24,2023,Vietnam,True,1,SUP-116
+221,Журнальный столик #221,Furniture,11449,96,GlobalTrade,4.7,0,4.56,12,2026,South Korea,True,5,SUP-439
+222,Алгоритмы и структуры #222,Books,3623,92,TechCorp,4.3,0,0.9,36,2024,China,True,1,SUP-719
+223,Зарядное устройство #223,Accessories,3749,99,EcoAppliances,3.5,0,11.77,36,2026,Vietnam,True,1,SUP-666
+224,Базы данных #224,Books,1560,87,GearUp,4.5,0,11.61,24,2024,South Korea,True,1,SUP-184
+225,Блендер #225,Appliances,13951,91,GlobalTrade,3.7,5,4.82,6,2023,China,True,1,SUP-555
+226,Мультиварка #226,Appliances,4849,16,TechCorp,3.8,5,8.4,36,2023,China,True,1,SUP-462
+227,Чехол для телефона #227,Accessories,3157,49,TechCorp,3.9,5,11.71,12,2024,South Korea,True,2,SUP-273
+228,Полка книжная #228,Furniture,21734,34,PrintHouse,3.7,0,6.58,36,2025,Germany,True,1,SUP-469
+229,Блендер #229,Appliances,21981,63,GearUp,4.4,5,1.69,24,2023,Germany,True,1,SUP-961
+230,Рюкзак для ноутбука #230,Accessories,3199,56,EcoAppliances,4.1,20,12.91,12,2025,Russia,True,5,SUP-811
+231,Диван угловой #231,Furniture,22590,22,PrintHouse,5.0,0,11.05,36,2024,Russia,True,2,SUP-387
+232,Чистый код #232,Books,1266,72,ComfortHome,4.4,10,2.78,6,2026,South Korea,True,1,SUP-548
+233,Микроволновка #233,Appliances,14906,86,PrintHouse,3.7,0,3.71,12,2026,Germany,True,1,SUP-559
+234,Рюкзак для ноутбука #234,Accessories,3783,68,GearUp,4.9,20,10.41,6,2025,South Korea,True,5,SUP-708
+235,Фитнес-браслет #235,Sports,2391,98,ComfortHome,4.5,0,2.58,6,2026,Russia,True,2,SUP-208
+236,Планшет Air #236,Electronics,36913,28,GearUp,4.6,10,8.75,12,2026,Russia,True,2,SUP-574
+237,Эспандер #237,Sports,11912,64,ComfortHome,4.0,0,7.29,24,2026,China,True,1,SUP-951
+238,Коврик для йоги #238,Sports,6307,39,EcoAppliances,4.2,0,7.86,24,2026,China,True,2,SUP-839
+239,Бутылка для воды #239,Sports,5825,8,EcoAppliances,3.6,15,1.81,24,2023,South Korea,True,1,SUP-858
+240,Журнальный столик #240,Furniture,13432,70,ComfortHome,4.0,5,14.38,12,2026,South Korea,True,1,SUP-290
+241,Бутылка для воды #241,Sports,7081,3,GlobalTrade,4.4,0,6.8,36,2026,China,True,1,SUP-310
+242,Микроволновка #242,Appliances,20418,13,GearUp,3.8,0,3.04,6,2025,South Korea,True,2,SUP-640
+243,Гантели 5кг #243,Sports,10380,49,GearUp,4.1,0,5.28,36,2024,South Korea,True,1,SUP-729
+244,Чехол для телефона #244,Accessories,1597,40,TechCorp,3.9,0,2.83,12,2026,Germany,True,5,SUP-241
+245,Рюкзак для ноутбука #245,Accessories,3965,23,PrintHouse,4.5,15,13.8,12,2024,Germany,True,1,SUP-243
+246,Полка книжная #246,Furniture,57180,57,GearUp,3.6,0,14.28,36,2024,Vietnam,True,2,SUP-675
+247,Рюкзак для ноутбука #247,Accessories,3851,87,PrintHouse,4.1,20,6.71,12,2023,USA,True,1,SUP-914
+248,Полка книжная #248,Furniture,4142,35,ComfortHome,4.3,0,11.73,36,2023,USA,True,1,SUP-374
+249,Переходник HDMI #249,Accessories,4940,96,TechCorp,4.6,5,8.24,36,2023,South Korea,True,1,SUP-404
+250,Смарт-часы X #250,Electronics,37447,44,TechCorp,4.2,0,11.66,12,2024,South Korea,True,5,SUP-805
+251,Фен для волос #251,Appliances,22234,54,ComfortHome,4.4,20,3.18,12,2023,USA,True,1,SUP-645
+252,Фен для волос #252,Appliances,19154,21,EcoAppliances,5.0,0,4.41,24,2023,Vietnam,True,2,SUP-160
+253,Блендер #253,Appliances,24484,16,ComfortHome,3.7,0,12.44,36,2026,Vietnam,True,5,SUP-747
+254,Тостер #254,Appliances,13793,57,TechCorp,4.5,20,1.49,24,2025,Germany,True,2,SUP-435
+255,Чехол для телефона #255,Accessories,1263,93,PrintHouse,4.5,15,5.44,6,2026,Vietnam,True,2,SUP-944
+256,Диван угловой #256,Furniture,19598,41,EcoAppliances,4.0,10,2.05,36,2025,South Korea,True,1,SUP-147
+257,Смарт-часы X #257,Electronics,5134,15,ComfortHome,4.2,0,14.88,36,2024,South Korea,True,1,SUP-765
+258,Блендер #258,Appliances,10479,11,GlobalTrade,4.0,0,5.64,12,2023,Germany,True,1,SUP-843
+259,Коврик для йоги #259,Sports,7632,83,TechCorp,4.6,0,3.28,6,2024,USA,True,1,SUP-631
+260,Бутылка для воды #260,Sports,752,1,GlobalTrade,4.0,0,14.82,36,2024,Germany,True,1,SUP-334
+261,Изучаем Python #261,Books,3793,13,TechCorp,4.0,0,2.14,12,2024,China,True,5,SUP-676
+262,Роутер Wi-Fi 6 #262,Electronics,88199,21,PrintHouse,4.0,0,9.46,12,2026,USA,True,2,SUP-980
+263,Стул кухонный #263,Furniture,8584,17,TechCorp,4.4,5,5.34,36,2025,Vietnam,True,1,SUP-383
+264,Фитнес-браслет #264,Sports,4665,70,GearUp,4.4,10,4.35,6,2025,Vietnam,True,5,SUP-721
+265,Кабель Type-C #265,Accessories,3709,37,GlobalTrade,3.6,20,14.32,36,2026,China,True,1,SUP-611
+266,Эспандер #266,Sports,1763,67,TechCorp,5.0,0,2.07,36,2025,USA,True,1,SUP-881
+267,Изучаем Python #267,Books,868,75,TechCorp,3.5,0,0.69,6,2026,USA,True,1,SUP-743
+268,Эспандер #268,Sports,13168,53,PrintHouse,4.6,0,9.64,12,2025,China,True,1,SUP-180
+269,Кабель Type-C #269,Accessories,1772,68,EcoAppliances,4.1,15,11.47,6,2025,South Korea,True,2,SUP-847
+270,Стул кухонный #270,Furniture,18022,11,PrintHouse,3.7,10,9.17,24,2024,China,True,1,SUP-824
+271,Стул кухонный #271,Furniture,12736,63,EcoAppliances,4.3,20,12.36,24,2024,Russia,True,1,SUP-867
+272,Микроволновка #272,Appliances,2461,42,PrintHouse,3.9,0,4.02,6,2026,Germany,True,5,SUP-468
+273,Смарт-часы X #273,Electronics,77302,21,EcoAppliances,3.7,20,1.63,6,2024,South Korea,True,5,SUP-102
+274,Планшет Air #274,Electronics,35053,5,PrintHouse,4.0,0,2.77,6,2026,Vietnam,True,1,SUP-354
+275,Чистый код #275,Books,1911,9,GearUp,4.1,10,10.13,6,2024,Vietnam,True,5,SUP-147
+276,Изучаем Python #276,Books,2705,36,EcoAppliances,4.0,10,6.91,24,2024,Russia,True,5,SUP-903
+277,Фен для волос #277,Appliances,9448,59,EcoAppliances,4.4,5,14.97,12,2024,Vietnam,True,1,SUP-519
+278,Монитор 27 #278,Electronics,73981,44,GlobalTrade,4.8,0,14.27,6,2026,South Korea,True,1,SUP-206
+279,Журнальный столик #279,Furniture,17608,53,PrintHouse,4.9,0,10.7,6,2023,Vietnam,True,5,SUP-522
+280,Гантели 5кг #280,Sports,8111,95,TechCorp,4.4,10,2.09,36,2023,USA,True,5,SUP-163
+281,Алгоритмы и структуры #281,Books,1769,37,EcoAppliances,4.8,20,5.95,24,2025,Germany,True,1,SUP-339
+282,Монитор 27 #282,Electronics,20840,99,GearUp,3.7,0,2.55,36,2025,Germany,True,1,SUP-648
+283,Блендер #283,Appliances,16308,39,PrintHouse,3.9,0,1.45,24,2023,Vietnam,True,1,SUP-251
+284,Монитор 27 #284,Electronics,49627,50,GearUp,3.6,0,3.98,12,2023,Germany,True,2,SUP-669
+285,Эспандер #285,Sports,4693,12,PrintHouse,3.7,20,2.18,6,2023,Vietnam,True,1,SUP-302
+286,Чистый код #286,Books,3611,80,GlobalTrade,3.6,10,3.96,6,2023,China,True,1,SUP-761
+287,Алгоритмы и структуры #287,Books,1176,42,TechCorp,3.6,5,0.85,36,2026,Germany,True,1,SUP-491
+288,Бутылка для воды #288,Sports,3431,45,ComfortHome,4.9,0,4.27,12,2023,USA,True,5,SUP-731
+289,Полка книжная #289,Furniture,34695,52,GearUp,4.2,0,4.27,12,2026,Vietnam,True,5,SUP-355
+290,Эспандер #290,Sports,13622,2,PrintHouse,4.7,0,7.25,36,2025,USA,True,5,SUP-429
+291,Чистый код #291,Books,1536,3,EcoAppliances,4.4,0,13.45,24,2023,Germany,True,5,SUP-466
+292,Кабель Type-C #292,Accessories,1807,12,ComfortHome,4.5,0,8.05,6,2024,USA,True,2,SUP-463
+293,Шкаф-купе #293,Furniture,17502,75,EcoAppliances,4.7,15,5.45,6,2025,USA,True,5,SUP-245
+294,Кабель Type-C #294,Accessories,4532,69,EcoAppliances,3.8,0,1.44,12,2024,China,True,5,SUP-589
+295,Клавиатура Механическая #295,Electronics,83495,25,ComfortHome,4.0,0,13.79,24,2023,China,True,1,SUP-700
+296,Коврик для йоги #296,Sports,13287,14,GearUp,4.8,0,5.67,36,2023,Russia,True,1,SUP-430
+297,Шкаф-купе #297,Furniture,49995,55,GlobalTrade,4.9,15,4.83,24,2024,South Korea,True,5,SUP-934
+298,Диван угловой #298,Furniture,22107,93,GlobalTrade,3.9,0,10.96,36,2023,Vietnam,True,5,SUP-425
+299,Кабель Type-C #299,Accessories,1352,63,ComfortHome,4.0,0,3.65,24,2024,South Korea,True,1,SUP-941
+300,Гантели 5кг #300,Sports,7917,1,EcoAppliances,3.8,15,1.11,24,2023,South Korea,True,1,SUP-149

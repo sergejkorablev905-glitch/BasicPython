@@ -20,10 +20,10 @@ cast(, ....)
 
 
 
-with open("salaries.txt", "r", encoding="utf-8") as f:
+with open("txt.csv/salaries.txt", "r", encoding="utf-8") as f:
     header = next(f)
 
-    with open("highly_paid.txt", "w", encoding="utf-8") as out:
+    with open("txt.csv/highly_paid.txt", "w", encoding="utf-8") as out:
         for line in f:
             data = line.strip().split()
             salary = int(data[3])
